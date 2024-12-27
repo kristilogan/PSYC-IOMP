@@ -1,4 +1,4 @@
-gender,race,parental_education,lunch,test_prep_course,math_score,reading_score,writing _score
+gender,race,parental_education,lunch,test_prep_course,math_score,reading_score,writing_score
 female,Hispanic,bachelor's degree,standard,none,72,72,74
 female,Caucasian,some college,standard,completed,69,90,88
 female,Hispanic,master's degree,standard,none,90,95,93
